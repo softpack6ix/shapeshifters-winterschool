@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram name="Page-1" id="jOjoz0egchATiyZDADN5">
+    <mxGraphModel dx="2614" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="Un1ggXw9RBJ1hHR7CRJg-3" target="Un1ggXw9RBJ1hHR7CRJg-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="460" />
+              <mxPoint x="200" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="Un1ggXw9RBJ1hHR7CRJg-3" target="Un1ggXw9RBJ1hHR7CRJg-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="460" />
+              <mxPoint x="200" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.totalphase.com/media/blog/2022/06/analog-digital-comparison.png;imageBorder=default;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="150" width="530.84" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="480" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="Un1ggXw9RBJ1hHR7CRJg-6" source="Un1ggXw9RBJ1hHR7CRJg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-5" value="&lt;h1&gt;S2 mini&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-6">
+          <mxGeometry width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.wemos.cc/en/latest/_images/s2_mini_v1.0.0_1_16x16.jpg;rotation=90;clipPath=inset(8.33% 14.67% 7% 16.33%);" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-6">
+          <mxGeometry x="33.75" y="53.92999999999995" width="202.51" height="248.49" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="150" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-8" value="&lt;h1&gt;Arduino Pro Micro&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-7">
+          <mxGeometry width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.botland.store/46109-large_default/blue-pro-micro-5v16mhz-compatible-with-arduino.jpg;clipPath=inset(25.33% 5.67% 26.33% 3.67%);" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-7">
+          <mxGeometry x="10" y="110.66" width="250" height="133.27" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="930" y="210" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="Un1ggXw9RBJ1hHR7CRJg-8" target="Un1ggXw9RBJ1hHR7CRJg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Devices_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="990" y="560" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="Un1ggXw9RBJ1hHR7CRJg-5" target="Un1ggXw9RBJ1hHR7CRJg-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="625" />
+              <mxPoint x="850" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-21" value="&lt;h2&gt;MIDI&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="641" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-13" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-22">
+          <mxGeometry x="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-14" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="Un1ggXw9RBJ1hHR7CRJg-22">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-24" value="&lt;h2&gt;digitalRead()&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LOW / HIGH&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;(0 / 1)&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="505" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Un1ggXw9RBJ1hHR7CRJg-25" value="&lt;h2&gt;analogRead()&lt;br&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;0 - 1023&lt;br&gt;(10 bit)&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="320" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

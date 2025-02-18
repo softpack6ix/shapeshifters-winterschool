@@ -1,17 +1,23 @@
-
 # shapeshifters-winterschool
 
 ## Create your own MIDI controller from e-waste
-by [@Rein](https://github.com/goudreinette) and [@Jonas](https://github.com/jwestendorp) 
+
+by [@Rein](https://github.com/goudreinette) and [@Jonas](https://github.com/jwestendorp)
+
+![Diagram](diagram.jpg)
 
 ### To-do
 
+!!! Video of dialpad
+
 Presentation:
+
 - lecture on basic components
 - analog vs digital (continous or discrete)
 - ide setup
 
 Prepare circuits:
+
 - button
 - pot meter
 - vape sensor (mic)
@@ -20,9 +26,9 @@ Prepare circuits:
 - ???
 
 Arduino code:
+
 - Midi (HID device in general, i.e. keyboard)
 - Bluetooth
 - ? other protocols: wifi, serial
 
 Touchdesigner integration
- 
