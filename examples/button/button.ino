@@ -12,7 +12,6 @@ void setup() {
 }
 
 void loop() {
-
   buttonState = digitalRead(buttonPin);
 
 // if button is pressed

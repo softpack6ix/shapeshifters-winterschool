@@ -25,10 +25,16 @@ The goal of this workshop is to make our own controller from e-waste. We will le
 
 ![Diagram](diagram.jpg)
 
-### Signals
+We will obtain components from e-waste from which we will capture a signal through the `analogRead()` or
+`digitalRead()` function of our microcontroller. We will then use these signals as an input to our other devices by making the microcontroller send out these signals over a protocol they can understand (MIDI, Bluetooth, WiFi, etc.).
+
+## Requirements
+
+### Signals (Inputs)
 
 We can use buttons, potmeters, sensors, components, or whatever we can think of as an input for our controller.
 As long as they can be interpreted as either a digital or an analog signal by Arduino it should work.
+Take a look at the [code examples](#code-examples) for some inspiration on what components you can use.
 
 ### Microcontroller
 
@@ -52,26 +58,35 @@ to interpret the signals with our microcontroller.
 
 ## Installation
 
-Make sure you have installed the Arduino IDE.
+Make sure you have installed the [Arduino IDE](https://www.arduino.cc/en/software).
 
-> **Note:** If you are using the S2 mini (ESP32) you will need to [install the ESP32 board manager](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/).
+> **Note:** If you are using the S2 mini (ESP32) you will also need to [install the ESP32 board manager](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/).
 
 ---
 
-## Components
+## Code examples
 
 We have prepared a small selection of components.
 
-- button
-- potmeter
-- #### vape sensor
+- **Button** <br>
+  For the button example, see the code in [button.ino](examples/button/button.ino).
+
+- **Potmeter** <br>
+  For the potmeter example, see the code in [potmeter.ino](examples/potmeter/potmeter.ino).
+
+- **Vape sensor**
   Detects air pressure and will act as a swich when the pressure is above a certain threshold.
-- touchpad
-- dialpad
+
+- **Touchpad** <br>
+  For the touchpad example, see the code in [touchpad.ino](examples/touchpad/touchpad.ino).
+- **Dialpad** <br>
+  For the dialpad example, see the code in [dialpad.ino](examples/dialpad/dialpad.ino).
 
 ---
 
-[Arduino-lessen](https://arduino-lessen.nl/)
+## Additional Resources
+
+[Arduino-lessen](https://arduino-lessen.nl/) (Dutch)
 
 ### To-do
 
