@@ -47,10 +47,8 @@ void setup() {
 }
 
 void loop() {
-
   digitalValue = digitalRead(digitalPin);
   buttonState = digitalRead(buttonPin);
-
 
   if (digitalValue == HIGH || buttonState == LOW) {
     Serial.println("HIGH");

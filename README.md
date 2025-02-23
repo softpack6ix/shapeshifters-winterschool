@@ -82,6 +82,16 @@ We have prepared a small selection of components.
 - **Dialpad** <br>
   For the dialpad example, see the code in [dialpad.ino](examples/dialpad/dialpad.ino).
 
+- **MIDI** <br>
+  For the MIDI example, see the code in [midi.ino](examples/midi/midi.ino).
+
+- **Bluetooth** <br>
+  - [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) <br>
+    Download the zip file from Github. In the Arduino IDE go to `Sketch > Include Library > Add .ZIP Library...` and select the downloaded file.
+  - [ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse)<br>
+    As of 23/02/2025, the ESP32-BLE-Mouse library has a bug, but is can be solved by changing the library code as described by this [Github Issue](https://github.com/T-vK/ESP32-BLE-Mouse/issues/73).
+  - (still have to test this one) [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)
+
 ---
 
 ## Additional Resources
